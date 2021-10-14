@@ -1,4 +1,3 @@
-# Olympics Data Analysis
 # Olympics-Data-Analysis
 This is Olympics Data Analysis project in which I have tried to analyse all olympic events till 2016 Rio Olympic.Which will help to understand that which country have best performance in Olympics,Indvidual atheletes who have won more medal.etc
 
